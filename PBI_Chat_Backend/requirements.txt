@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+groq
+pyodbc
+pandas
+sqlalchemy
+matplotlib
+seaborn
+msal
+azure-identity
+requests
+pyadomd
+pythonnet
+openai
+react-markdown
+psutil

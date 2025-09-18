@@ -1,9 +1,0 @@
-{
-  "dependencies": {
-    "lucide-react": "^0.522.0",
-    "react-markdown": "^10.1.0",
-    "react-window": "^1.8.11",
-    "react-window-infinite-loader": "^1.0.10",
-    "recharts": "^2.15.4"
-  }
-}
