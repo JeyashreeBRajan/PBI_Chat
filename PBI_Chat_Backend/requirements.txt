@@ -15,3 +15,5 @@ pythonnet
 openai
 react-markdown
 psutil
+requests
+gunicorn
